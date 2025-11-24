@@ -23,11 +23,7 @@ print(f"Found {len(corpus_verbatim)} documents to index.")
 stemmer = Stemmer.Stemmer("english")
 
 corpus_tokenized = bm25s.tokenize(
-    corpus_plaintext,
-    stopwords="en",
-    stemmer=stemmer,
-    lower=True,
-    show_progress=True
+    corpus_plaintext, stopwords="en", stemmer=stemmer, lower=True, show_progress=True
 )
 
 retriever = bm25s.BM25(method="lucene", idf_method="lucene")
