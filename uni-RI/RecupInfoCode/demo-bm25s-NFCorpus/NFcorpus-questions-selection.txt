@@ -1,0 +1,354 @@
+PLAIN-2		http://nutritionfacts.org/2015/07/16/do-cholesterol-statin-drugs-cause-breast-cancer/	Do Cholesterol Statin Drugs Cause Breast Cancer?
+PLAIN-10	http://nutritionfacts.org/2015/06/18/how-contaminated-are-our-children/	How Contaminated Are Our Children?
+PLAIN-15	http://nutritionfacts.org/2015/06/02/why-do-heart-doctors-favor-surgery-and-drugs-over-diet/	Why Do Heart Doctors Favor Surgery and Drugs Over Diet?
+PLAIN-16	http://nutritionfacts.org/2015/05/28/phytates-in-beans-anti-nutrient-or-anti-cancer/	Phytates in Beans: Anti-Nutrient or Anti-Cancer?
+PLAIN-18	http://nutritionfacts.org/2015/05/21/colon-cancer-prevention-is-it-the-fiber-or-the-phytates/	Colon Cancer Prevention: Is it the Fiber or the Phytates?
+PLAIN-22	http://nutritionfacts.org/2015/05/05/why-are-cancer-rates-so-low-in-india/	Why are Cancer Rates so Low in India?
+PLAIN-24	http://nutritionfacts.org/2015/04/23/alkylphenol-endocrine-disruptors-and-allergies/	Are Alkylphenol Endocrine Disruptors linked to allergies?
+PLAIN-26	http://nutritionfacts.org/2015/04/16/what-is-meat-glue/	What is  Meat Glue ?
+PLAIN-27	http://nutritionfacts.org/2015/04/14/does-liquid-smoke-cause-cancer/	Is Liquid Smoke Safe?
+PLAIN-28	http://nutritionfacts.org/2015/04/09/food-antioxidants-stroke-and-heart-disease/	Does Antioxidant Intake Matter for Stroke and Heart Disease?
+PLAIN-29	http://nutritionfacts.org/2015/04/07/food-antioxidants-and-cancer/	Does Antioxidant Intake Matter for Cancer?
+PLAIN-30	http://nutritionfacts.org/2015/04/02/is-buying-organic-worth-it-a-review-of-the-science-in-new-dvd/	Is buying organic worth it?
+PLAIN-37	http://nutritionfacts.org/2015/03/10/viral-food-poisoning-from-pesticides/	Viral Food Poisoning from Pesticides?
+PLAIN-40	http://nutritionfacts.org/2015/02/26/are-multivitamins-just-a-waste-of-money/	Are Multivitamins Just a Waste of Money?
+PLAIN-44	http://nutritionfacts.org/2015/02/12/who-should-be-careful-about-curcumin/	Who Should be Careful About Curcumin?
+PLAIN-57	http://nutritionfacts.org/2014/12/25/how-long-to-avoid-fish-before-conception/	How Long to Avoid Fish Before Conception?
+PLAIN-68	http://nutritionfacts.org/2014/11/18/what-is-actually-in-chicken-nuggets/	What is Actually in Chicken Nuggets?
+PLAIN-69	http://nutritionfacts.org/2014/11/13/does-caramel-color-cause-cancer/	Does Caramel Color Cause Cancer?
+PLAIN-75	http://nutritionfacts.org/2014/10/23/can-one-become-a-sugar-addict/	Can One Become a Sugar Addict?
+PLAIN-76	http://nutritionfacts.org/2014/10/21/where-are-phosphate-additives-found/	Where are Phosphate Additives Found?
+PLAIN-78	http://nutritionfacts.org/2014/10/14/what-do-meat-purge-and-cola-have-in-common/	What Do Meat Purge and Cola Have in Common?
+PLAIN-82	http://nutritionfacts.org/2014/09/25/are-canned-beans-as-healthy-as-home-cooked/	Are Canned Beans as Healthy as Home Cooked?
+PLAIN-84	http://nutritionfacts.org/2014/09/18/can-eating-soy-prevent-breast-cancer/	Can Eating Soy Prevent Breast Cancer?
+PLAIN-92	http://nutritionfacts.org/2014/08/21/why-the-egg-cancer-link/	Why the Egg-Cancer Link?
+PLAIN-98	http://nutritionfacts.org/2014/07/31/does-animal-protein-cause-osteoporosis/	Does Animal Protein Cause Osteoporosis?
+PLAIN-104	http://nutritionfacts.org/2014/07/08/a-low-methionine-diet-may-help-starve-cancer-cells/	Can a Low Methionine Diet Help Starve Cancer Cells?
+PLAIN-119	http://nutritionfacts.org/2014/05/15/which-seaweed-to-help-prevent-breast-cancer/	Which Seaweed to Help Prevent Breast Cancer?
+PLAIN-125	http://nutritionfacts.org/2014/04/24/is-noni-or-mangosteen-juice-safe/	Is Noni or Mangosteen Juice Safe?
+PLAIN-126	http://nutritionfacts.org/2014/04/22/should-carrageenan-be-avoided/	Should Carrageenan Be Avoided?
+PLAIN-132	http://nutritionfacts.org/2014/03/27/can-we-fight-the-blues-with-greens/	Can We Fight the Blues With Greens?
+PLAIN-135	http://nutritionfacts.org/2014/03/18/why-do-vegan-women-have-fewer-female-cancers/	Why Do Vegan Women Have Fewer Female Cancers?
+PLAIN-143	http://nutritionfacts.org/2014/02/18/are-dental-x-rays-safe/	Are Dental X-Rays Safe?
+PLAIN-144	http://nutritionfacts.org/2014/02/13/how-risky-are-ct-scans/	How Risky are CT Scans?
+PLAIN-147	http://nutritionfacts.org/2014/02/04/can-cranberry-juice-treat-bladder-infections/	Does Cranberry Juice Work Against Bladder Infections?
+PLAIN-153	http://nutritionfacts.org/2014/01/02/how-should-i-take-probiotics/	How Should I Take Probiotics?
+PLAIN-161	http://nutritionfacts.org/2013/12/10/which-common-fruit-fights-cancer-better/	Which Common Fruit Fights Cancer Better?
+PLAIN-168	http://nutritionfacts.org/2013/11/19/why-are-eggs-linked-to-cancer-progression/	Why Are Eggs Linked to Cancer Progression?
+PLAIN-172	http://nutritionfacts.org/2013/11/05/tarragon-toxicity/	Tarragon Toxicity?
+PLAIN-182	http://nutritionfacts.org/2013/10/01/why-is-selling-salmonella-tainted-chicken-still-legal/	Why Is Selling Salmonella-Tainted Chicken Legal?
+PLAIN-190	http://nutritionfacts.org/2013/09/03/hibiscus-tea-the-best-beverage/	Hibiscus Tea: The Best Beverage?
+PLAIN-195	http://nutritionfacts.org/2013/08/15/why-are-children-starting-puberty-earlier/	Why are Children Starting Puberty Earlier?
+PLAIN-196	http://nutritionfacts.org/2013/08/13/is-titanium-dioxide-in-food-harmful/	Should We Avoid Titanium Dioxide?
+PLAIN-197	http://nutritionfacts.org/2013/08/08/the-best-way-to-prevent-the-common-cold/	The Best Way to Prevent the Common Cold?
+PLAIN-198	http://nutritionfacts.org/2013/08/06/which-pets-improve-childrens-health/	Which Pets Improve Children s Health?
+PLAIN-199	http://nutritionfacts.org/2013/08/01/vitamin-d-from-mushrooms-sun-or-supplements/	Vitamin D from Mushrooms, Sun, or Supplements?
+PLAIN-200	http://nutritionfacts.org/2013/07/30/is-coconut-oil-good-for-you/	Is Coconut Oil Bad For You?
+PLAIN-201	http://nutritionfacts.org/2013/07/25/do-vegans-get-more-cavities/	Do Vegans Get More Cavities?
+PLAIN-210	http://nutritionfacts.org/2013/06/25/apple-peels-turn-on-anticancer-genes/	Do apple peels turn on anticancer genes?
+PLAIN-214	http://nutritionfacts.org/2013/06/11/why-less-breast-cancer-in-asia/	Why Less Breast Cancer in Asia?
+PLAIN-223	http://nutritionfacts.org/2013/05/07/is-there-a-safe-low-calorie-sweetener/	Is There a Safe, Low-Calorie Sweetener?
+PLAIN-224	http://nutritionfacts.org/2013/05/02/are-microgreens-healthier/	Are Microgreens Healthier?
+PLAIN-231	http://nutritionfacts.org/2013/04/09/gerson-therapy-for-cancer/	Gerson Therapy for Cancer?
+PLAIN-232	http://nutritionfacts.org/2013/04/04/are-bioidentical-hormones-safe/	Are Bioidentical Hormones Safe?
+PLAIN-233	http://nutritionfacts.org/2013/04/02/ergothioneine-a-new-vitamin/	Ergothioneine: A New Vitamin?
+PLAIN-238	http://nutritionfacts.org/2013/03/14/how-chemically-contaminated-are-we/	How Chemically Contaminated Are We?
+PLAIN-242	http://nutritionfacts.org/2013/02/28/what-is-the-healthiest-meat/	What Is the Healthiest Meat?
+PLAIN-245	http://nutritionfacts.org/2013/02/19/how-much-soy-is-too-much/	How Much Soy Is Too Much?
+PLAIN-247	http://nutritionfacts.org/2013/02/07/how-do-plant-based-diets-fight-cancer/	How Do Plant-Based Diets Fight Cancer?
+PLAIN-253	http://nutritionfacts.org/2013/01/17/diet-vs-exercise-whats-more-important/	Diet vs. Exercise: What s More Important?
+PLAIN-271	http://nutritionfacts.org/2012/09/20/how-much-arsenic-in-rice-came-from-chickens/	How Much Arsenic In Rice Came From Chickens?
+PLAIN-272	http://nutritionfacts.org/2012/09/20/why-meat-causes-inflammation/	How Does Meat Cause Inflammation?
+PLAIN-284	http://nutritionfacts.org/2012/07/05/do-eden-beans-have-too-much-iodine/	Do Eden Beans Have Too Much Iodine?
+PLAIN-293	http://nutritionfacts.org/2012/04/25/mad-cow-california-is-the-milk-supply-safe/	Mad Cow California: Is the Milk Supply Safe?
+PLAIN-324	http://nutritionfacts.org/2011/09/08/how-much-pus-is-there-in-milk/	How much pus is there in milk?
+PLAIN-332	http://nutritionfacts.org/2011/08/23/can-antioxidant-rich-spices-counteract-the-effects-of-a-high-fat-meal/	Can antioxidant-rich spices counteract the effects of a high-fat meal?
+PLAIN-338	http://nutritionfacts.org/2015/08/20/what-do-eggs-do-to-our-arteries/	What Do Eggs Do To Our Arteries?
+PLAIN-340	http://nutritionfacts.org/2015/08/13/how-walnuts-can-improve-artery-function/	Do Walnuts Really Improve Artery Function?
+PLAIN-345	http://nutritionfacts.org/2015/07/23/why-would-eating-fish-increase-diabetes-risk/	Why Would Eating Fish Increase Diabetes Risk?
+PLAIN-346	http://nutritionfacts.org/rdquestions/what-does-the-research-say-about-dietary-interventions-on-women-with-pcos/	What does the research say about dietary interventions on women with PCOS?
+PLAIN-347	http://nutritionfacts.org/rdquestions/do-algae-based-omega-3-supplements-contain-beta-n-methylamino-l-alanine-bmaa-that-has-been-found-in-blue-green-algae/	Do algae-based omega-3 supplements contain beta-N-methylamino-L-alanine (BMAA) that has been found in blue-green algae?
+PLAIN-348	http://nutritionfacts.org/rdquestions/what-are-some-ways-to-help-reduce-the-risk-of-food-poisoning-from-pesticides/	What are some ways to help reduce the risk of food poisoning from pesticides?
+PLAIN-349	http://nutritionfacts.org/rdquestions/should-i-stay-away-from-soy-if-i-have-breast-cancer/	Should I stay away from soy if I have breast cancer?
+PLAIN-350	http://nutritionfacts.org/rdquestions/should-we-take-iodine-supplements/	Should we take iodine supplements?
+PLAIN-356	http://nutritionfacts.org/questions/how-do-i-treat-a-recurrent-yeast-infection/	Boric acid for vaginal yeast infections?
+PLAIN-357	http://nutritionfacts.org/questions/can-diet-be-used-to-treat-kidney-cancer/	Can diet be used to treat kidney cancer?
+PLAIN-358	http://nutritionfacts.org/questions/could-l-carnitine-be-both-beneficial-and-detrimental-to-cardiac-health/	Didn't another study show carnitine was good for the heart?
+PLAIN-360	http://nutritionfacts.org/questions/might-too-many-antioxidants-cause-cancer/	Might too many antioxidants cause cancer?
+PLAIN-361	http://nutritionfacts.org/questions/which-foods-have-the-most-potassium/	Which foods have the most potassium?
+PLAIN-364	http://nutritionfacts.org/questions/nutrition-recommendations-for-acid-reflux-and-barretts-esophagus/	Nutrition recommendations for acid reflux (GERD), heartburn, and Barrett's Esophagus?
+PLAIN-366	http://nutritionfacts.org/questions/can-you-take-hydrogen-peroxide-internally/	Can you take hydrogen peroxide internally?
+PLAIN-367	http://nutritionfacts.org/questions/what-is-the-best-way-to-get-b12/	What is the best way to get vitamin B12?
+PLAIN-368	http://nutritionfacts.org/questions/are-green-smoothies-better-for-you/	Are green smoothies better for you?
+PLAIN-369	http://nutritionfacts.org/questions/flax-seeds-and-prostate-cancer-risk/	Might flax seeds (ALA) increase prostate cancer risk?
+PLAIN-370	http://nutritionfacts.org/questions/do-microgreens-have-more-nutrition/	Do microgreens have more nutrition?
+PLAIN-372	http://nutritionfacts.org/questions/average-normal-vitamin-d-levels/	What are "normal" human vitamin D levels?
+PLAIN-373	http://nutritionfacts.org/questions/dr-greger-have-you-ever-eaten-a-durian-fruit/	What do you think of durian fruit?
+PLAIN-374	http://nutritionfacts.org/questions/are-neurotoxins-only-present-in-blue-green-algae/	Are neurotoxins only present in blue-green algae?
+PLAIN-375	http://nutritionfacts.org/questions/nutrition-advice-to-counter-the-side-effects-of-glaucoma-medications/	Nutrition advice to counter the side-effects of glaucoma medications?
+PLAIN-376	http://nutritionfacts.org/questions/what-are-the-benefits-of-reishi-mushrooms-ganoderma-lucidum/	What are the benefits of reishi mushrooms (Ganoderma lucidum)?
+PLAIN-377	http://nutritionfacts.org/questions/gurmar-jamun-bitter-melon-and-fenugreek/	What about gurmar, jamun, bitter melon, and fenugreek?
+PLAIN-378	http://nutritionfacts.org/questions/is-yerba-mate-tea-bad-for-you/	Is yerba mat  tea really bad for you?
+PLAIN-379	http://nutritionfacts.org/questions/mercury-fillings-and-canned-tuna/	How did you do the mercury fillings and canned tuna calculation?
+PLAIN-382	http://nutritionfacts.org/questions/is-vanilla-sweetened-almond-milk-healthy/	Is vanilla almond milk healthy?
+PLAIN-383	http://nutritionfacts.org/questions/dr-jenkins-and-plant-based-diets/	What do you think of Dr. Jenkins' take on paleolithic diets?
+PLAIN-385	http://nutritionfacts.org/questions/diet-and-atrial-fibrillation/	What's the best diet for atrial fibrillation?
+PLAIN-386	http://nutritionfacts.org/questions/causes-of-skin-discoloration/	My skin is turning orange (carotenoderma)--too many carrots?
+PLAIN-388	http://nutritionfacts.org/questions/positive-health-benefits-of-caffeine/	Does caffeine impair endothelial function in our arteries?
+PLAIN-389	http://nutritionfacts.org/questions/oxalic-acid-in-beets/	What about the oxalic acid in beets?
+PLAIN-390	http://nutritionfacts.org/questions/is-hempseed-oil-beneficial-to-adults-with-eczema/	Is hempseed oil beneficial to adults with eczema?
+PLAIN-391	http://nutritionfacts.org/questions/what-is-the-healthiest-potato/	What is the healthiest potato?
+PLAIN-392	http://nutritionfacts.org/questions/celery-for-colon-cancer-prevention/	Should we avoid celery to prevent colon cancer?
+PLAIN-393	http://nutritionfacts.org/questions/avoiding-canned-tomato-and-non-organic-root-vegetables/	Should we avoid canned tomatoes and non-organic root vegetables?
+PLAIN-394	http://nutritionfacts.org/questions/algae-as-astaxanthin-supplement/	Should we take algae supplements for astaxanthin?
+PLAIN-395	http://nutritionfacts.org/questions/powerful-pepper-tumeric/	What about pepper plus turmeric in V8 juice?
+PLAIN-396	http://nutritionfacts.org/questions/how-much-cinnamon-is-toxic/	How much cinnamon is too much?
+PLAIN-397	http://nutritionfacts.org/questions/sulfite-sensitivity-from-dried-fruits/	Sulfite sensitivity from sulphur dioxide in dried fruits?
+PLAIN-400	http://nutritionfacts.org/questions/can-tea-hinder-the-absorption-of-iron/	Can tea with meals hinder iron absorption?
+PLAIN-401	http://nutritionfacts.org/questions/best-sources-of-vitamin-k/	What are the best sources of vitamin K?
+PLAIN-403	http://nutritionfacts.org/questions/dairy-and-ear-infections/	Dairy and ear infections: is there an association?
+PLAIN-404	http://nutritionfacts.org/questions/the-health-benefits-of-moringa/	Is moringa (Moringa oleifera) good for you?
+PLAIN-405	http://nutritionfacts.org/questions/raw-milk-versus-pasteurized-milk/	Is raw milk healthy?
+PLAIN-406	http://nutritionfacts.org/questions/hibiscus-and-coughing/	Can hibiscus tea cause coughing?
+PLAIN-407	http://nutritionfacts.org/questions/is-annatto-safe-for-food-coloring/	Is annatto food coloring safe?
+PLAIN-408	http://nutritionfacts.org/questions/modifiable-risk-factors-for-heart-attacks/	What about the INTERHEART study on heart attack risk factors?
+PLAIN-409	http://nutritionfacts.org/questions/is-the-new-vitamin-d3-spray-a-waste-of-money/	Is the new vitamin D3 spray a waste of money?
+PLAIN-410	http://nutritionfacts.org/questions/can-indian-gooseberries-be-used-in-baked-goods-without-sacrificing-the-health-benefits/	Can Indian gooseberries (amla) be cooked without losing the health benefits?
+PLAIN-411	http://nutritionfacts.org/questions/what-are-the-anti-cancer-effects-of-garlic/	How can I preserve the anti-cancer effects of cooked garlic?
+PLAIN-412	http://nutritionfacts.org/questions/should-i-sterilize-my-neti-pot/	Given the  brain-eating amoeba  (Naegleria fowleri) in tap water should I sterilize my neti pot water?
+PLAIN-413	http://nutritionfacts.org/questions/does-adding-baking-soda-to-soaking-beans-reduce-raffinose/	Does adding baking soda to soaking beans reduce gas?
+PLAIN-414	http://nutritionfacts.org/questions/how-much-fruit-is-safe-to-consume/	How much fruit is safe to consume?
+PLAIN-416	http://nutritionfacts.org/questions/gmos-and-decreased-nutrition-in-our-foods/	Are GMOs safe and are the nutrients in our crops declining?
+PLAIN-417	http://nutritionfacts.org/questions/does-wild-rice-contain-the-same-levels-of-arsenic-as-white-rice/	Does wild rice contain the same levels of arsenic as brown rice?
+PLAIN-418	http://nutritionfacts.org/questions/fresh-fruit-versus-frozen-fruit-which-is-better/	Fresh fruit versus frozen--which is better?
+PLAIN-419	http://nutritionfacts.org/questions/the-best-sweetner/	What's the best low calorie sweetener?
+PLAIN-420	http://nutritionfacts.org/questions/can-vitamin-d-supplements-be-helpful-in-preventing-respiratory-disease/	Can Vitamin D supplements help prevent respiratory infections?
+PLAIN-422	http://nutritionfacts.org/questions/is-the-gassiness-of-beans-exaggerated/	What about getting gas from beans?
+PLAIN-423	http://nutritionfacts.org/questions/what-is-a-good-source-of-probiotics/	What is a good source of probiotics?
+PLAIN-425	http://nutritionfacts.org/questions/soy-based-versus-mycoprotein-based-fake-chicken-which-is-better/	Soy-based (Gardein) vs. mycoprotein-based (Quorn) veggie chicken: which is better?
+PLAIN-426	http://nutritionfacts.org/questions/how-can-i-avoid-the-top-10-leading-causes-of-death/	How can I avoid the top 10 leading causes of death?
+PLAIN-427	http://nutritionfacts.org/questions/where-does-the-fat-come-from-in-a-skinless-chicken-breast/	Where does the fat come from in a skinless chicken breast?
+PLAIN-428	http://nutritionfacts.org/questions/how-much-baking-soda-is-too-much/	In making water alkaline, how much baking soda is too much?
+PLAIN-430	http://nutritionfacts.org/questions/are-krill-oil-supplements-better-than-fish-oil-capsules/	Are krill oil supplements better than fish oil capsules?
+PLAIN-431	http://nutritionfacts.org/questions/what-is-the-recommended-child-requirement-for-vitamin-d/	What is the recommended child requirement for vitamin D?
+PLAIN-432	http://nutritionfacts.org/questions/what-is-the-definition-of-a-handful-of-nuts/	What is the definition of a "handful" serving of nuts?
+PLAIN-433	http://nutritionfacts.org/questions/is-a-low-salt-diet-bad-for-your-heart/	Could a low-salt diet be bad for your heart?
+PLAIN-434	http://nutritionfacts.org/questions/how-do-you-explain-never-getting-samonella-from-eating-raw-cake-batter/	How do you explain never getting Salmonella from eating raw cake batter?
+PLAIN-435	http://nutritionfacts.org/questions/the-history-of-handwashing-and-the-spread-of-disease/	What about Semmelweis and medicine's shameful handwashing history?
+PLAIN-437	http://nutritionfacts.org/questions/what-are-the-benefits-of-diet-in-juvenile-arthritis/	What are the benefits of diet in juvenile rheumatoid arthritis?
+PLAIN-438	http://nutritionfacts.org/questions/what-is-the-best-diet-for-kidney-stone-prevention/	What is the best diet for kidney stone prevention?
+PLAIN-440	http://nutritionfacts.org/questions/how-do-you-dose-saffron/	What's the right dose of saffron?
+PLAIN-441	http://nutritionfacts.org/questions/is-apple-cider-vinegar-good-for-you/	Is apple cider vinegar good for you?
+PLAIN-443	http://nutritionfacts.org/questions/is-bpa-really-harmful-to-your-health/	Is the plastic chemical BPA really harmful to your health?
+PLAIN-444	http://nutritionfacts.org/questions/do-pine-needles-from-a-douglas-fir-or-redwood-provide-a-good-source-of-antioxidants/	Do pine needles from a Douglas Fir or redwood provide a good source of antioxidants?
+PLAIN-446	http://nutritionfacts.org/questions/is-titanium-dioxide-harmful-as-a-food-additive/	Is titanium dioxide in Daiya cheese harmful as a food additive?
+PLAIN-450	http://nutritionfacts.org/questions/are-there-any-benefits-of-aloe-vera-concerning-digestion/	Are there benefits to drinking aloe vera juice?
+PLAIN-453	http://nutritionfacts.org/questions/are-homegrown-alfalfa-sprouts-safe/	Are homegrown alfalfa sprouts safe?
+PLAIN-454	http://nutritionfacts.org/questions/is-licorice-tea-harmful/	Is licorice tea also harmful?
+PLAIN-455	http://nutritionfacts.org/questions/can-soy-suppress-the-thyroid/	Can soy suppress thyroid function?
+PLAIN-456	http://nutritionfacts.org/questions/is-multivitamin-use-associated-to-a-risk-of-breast-cancer/	Is multivitamin use really associated to an increased risk of breast cancer?
+PLAIN-457	http://nutritionfacts.org/questions/how-can-you-believe-in-any-study/	How can you believe in any scientific study?
+PLAIN-459	http://nutritionfacts.org/questions/are-the-nutrients-from-blended-vegetables-absorbed-better-than-raw-vegetables/	Are the nutrients from blended vegetables absorbed better than raw vegetables?
+PLAIN-460	http://nutritionfacts.org/questions/how-much-impact-does-the-presence-of-phthalate-metabolites-have-in-our-food/	What about the pollutants like phthalates in plant foods?
+PLAIN-461	http://nutritionfacts.org/questions/can-capsaicin-and-hot-peppers-cause-cancer/	Can hot peppers (capsaicin) cause cancer?
+PLAIN-462	http://nutritionfacts.org/questions/is-cabbage-effective-against-breast-cancer/	Is cabbage effective against breast cancer?
+PLAIN-463	http://nutritionfacts.org/questions/is-thermography-the-new-early-cancer-detection-method/	Is thermography better than mammograms for early breast cancer detection?
+PLAIN-464	http://nutritionfacts.org/questions/does-organic-chicken-contain-less-arsenic/	Does  organic  chicken contain less arsenic?
+PLAIN-465	http://nutritionfacts.org/questions/are-there-known-risks-of-excess-b12-consumption/	Are there any risks of excess vitamin B12 consumption?
+PLAIN-466	http://nutritionfacts.org/questions/what-would-you-suggest-as-an-ideal-omega-369/	How do you achieve a good omega 3 to omega 6 fatty acid ratio?
+PLAIN-467	http://nutritionfacts.org/questions/is-regular-cocoa-powder-healthier-than-dutched/	Isn't regular cocoa powder healthier than alkali-processed "dutched" cocoa?
+PLAIN-468	http://nutritionfacts.org/questions/is-d3-cholecalciferol-a-better-source-of-vitamin-d/	Is vitamin D3 (cholecalciferol) preferable to D2 (ergocalciferol)?
+PLAIN-469	http://nutritionfacts.org/questions/are-free-range-eggs-healthier-than-conventional-eggs/	Are free-range eggs healthier than conventional eggs?
+PLAIN-2428	http://nutritionfacts.org/video/does-fiber-really-prevent-diverticulosis/	Does Fiber Really Prevent Diverticulosis?
+PLAIN-2430	http://nutritionfacts.org/video/preventing-brain-loss-with-b-vitamins/	Preventing Brain Loss with B Vitamins?
+PLAIN-2433	http://nutritionfacts.org/video/can-diabetic-retinopathy-be-reversed/	Can Diabetic Retinopathy Be Reversed?
+PLAIN-2434	http://nutritionfacts.org/video/should-you-sit-squat-or-lean-during-a-bowel-movement/	Should You Sit, Squat, or Lean During a Bowel Movement?
+PLAIN-2435	http://nutritionfacts.org/video/how-many-bowel-movements-should-you-have-every-day/	How Many Bowel Movements Should You Have Every Day?
+PLAIN-2438	http://nutritionfacts.org/video/what-causes-diabetes/	What Causes Diabetes?
+PLAIN-2445	http://nutritionfacts.org/video/why-do-plant-based-diets-help-rheumatoid-arthritis/	Why Do Plant-Based Diets Help Rheumatoid Arthritis?
+PLAIN-2447	http://nutritionfacts.org/video/are-the-benefits-of-organic-food-underrated-or-overrated/	Are the Benefits of Organic Food Underrated or Overrated?
+PLAIN-2448	http://nutritionfacts.org/video/are-organic-foods-healthier/	Are Organic Foods Healthier?
+PLAIN-2450	http://nutritionfacts.org/video/are-organic-foods-safer/	Are Organic Foods Safer?
+PLAIN-2451	http://nutritionfacts.org/video/are-organic-foods-more-nutritious/	Are Organic Foods More Nutritious?
+PLAIN-2454	http://nutritionfacts.org/video/antioxidants-and-depression/	What is the relationship between antioxidants and depression?
+PLAIN-2463	http://nutritionfacts.org/video/how-much-fruit-is-too-much/	How Much Fruit is Too Much?
+PLAIN-2467	http://nutritionfacts.org/video/can-oatmeal-help-fatty-liver-disease/	Can Oatmeal Help Fatty Liver Disease?
+PLAIN-2469	http://nutritionfacts.org/video/if-white-rice-is-linked-to-diabetes-what-about-china/	If White Rice is Linked to Diabetes, What About China?
+PLAIN-2470	http://nutritionfacts.org/video/is-milk-good-for-our-bones/	Is Milk Good for Our Bones?
+PLAIN-2471	http://nutritionfacts.org/video/do-antidepressant-drugs-really-work/	Do Antidepressant Drugs Really Work?
+PLAIN-2474	http://nutritionfacts.org/video/do-flexitarians-live-longer/	Do Flexitarians Live Longer?
+PLAIN-2475	http://nutritionfacts.org/video/which-parts-of-the-mediterranean-diet-extended-life/	Which Parts of the Mediterranean Diet Extended Life?
+PLAIN-2476	http://nutritionfacts.org/video/predimed-does-eating-nuts-prevent-strokes/	PREDIMED: Does Eating Nuts Prevent Strokes?
+PLAIN-2477	http://nutritionfacts.org/video/the-mediterranean-diet-or-a-whole-food-plant-based-diet/	The Mediterranean Diet or a Whole Food Plant-Based Diet?
+PLAIN-2478	http://nutritionfacts.org/video/why-was-heart-disease-rare-in-the-mediterranean/	Why Was Heart Disease Rare in the Mediterranean?
+PLAIN-2487	http://nutritionfacts.org/video/what-causes-insulin-resistance/	What Causes Insulin Resistance?
+PLAIN-2496	http://nutritionfacts.org/video/are-raisins-good-snacks-for-kids/	Are Raisins Good Snacks for Kids?
+PLAIN-2501	http://nutritionfacts.org/video/which-dietary-factors-affect-breast-cancer-most/	Which Dietary Factors Affect Breast Cancer Most?
+PLAIN-2504	http://nutritionfacts.org/video/why-do-vegan-women-have-5x-fewer-twins/	Why Do Vegan Women Have 5x Fewer Twins?
+PLAIN-2514	http://nutritionfacts.org/video/if-fructose-is-bad-what-about-fruit/	If Fructose is Bad, What About Fruit?
+PLAIN-2519	http://nutritionfacts.org/video/how-much-added-sugar-is-too-much/	How Much Added Sugar Is Too Much?
+PLAIN-2522	http://nutritionfacts.org/video/is-monsantos-roundup-pesticide-glyphosate-safe/	Is Monsanto s Roundup Pesticide Glyphosate Safe?
+PLAIN-2532	http://nutritionfacts.org/video/can-flax-seeds-help-prevent-breast-cancer/	Can Flax Seeds Help Prevent Breast Cancer?
+PLAIN-2534	http://nutritionfacts.org/video/how-much-hibiscus-tea-is-too-much/	How Much Hibiscus Tea is Too Much?
+PLAIN-2535	http://nutritionfacts.org/video/is-there-too-much-aluminum-in-tea/	Is There Too Much Aluminum in Tea?
+PLAIN-2539	http://nutritionfacts.org/video/cooked-beans-or-sprouted-beans/	Cooked Beans or Sprouted Beans?
+PLAIN-2540	http://nutritionfacts.org/video/does-cholesterol-size-matter/	Does Cholesterol Size Matter?
+PLAIN-2542	http://nutritionfacts.org/video/does-meditation-affect-cellular-aging/	Does Meditation Affect Cellular Aging?
+PLAIN-2558	http://nutritionfacts.org/video/is-gluten-sensitivity-real/	Is Gluten Sensitivity Real?
+PLAIN-2564	http://nutritionfacts.org/video/whats-the-best-mouthwash/	What s the Best Mouthwash?
+PLAIN-2565	http://nutritionfacts.org/video/which-vegetable-binds-bile-best/	Which Vegetable Binds Bile Best?
+PLAIN-2567	http://nutritionfacts.org/video/evidence-based-medicine-or-evidence-biased/	Evidence-Based Medicine or Evidence-Biased?
+PLAIN-2572	http://nutritionfacts.org/video/which-nut-fights-cancer-better/	Which Nut Fights Cancer Better?
+PLAIN-2573	http://nutritionfacts.org/video/what-diet-should-physicians-recommend/	What Diet Should Physicians Recommend?
+PLAIN-2578	http://nutritionfacts.org/video/anti-cancer-potential-of-sweet-potato-proteins/	Do Sweet Potato Proteins Have Anti-Cancer Potential?
+PLAIN-2590	http://nutritionfacts.org/video/do-vegetarians-get-enough-protein/	Do Vegetarians Get Enough Protein?
+PLAIN-2593	http://nutritionfacts.org/video/fruits-veggies-and-longevity-how-many-minutes-per-mouthful/	Fruits, Veggies, and Longevity: How Many Minutes Per Mouthful?
+PLAIN-2610	http://nutritionfacts.org/video/treating-asthma-with-plants-vs-supplements/	Treating Asthma With Plants vs. Supplements?
+PLAIN-2614	http://nutritionfacts.org/video/how-many-cancers-have-been-caused-by-arsenic-laced-chicken/	How Many Cancers Have Been Caused by Arsenic-Laced Chicken?
+PLAIN-2617	http://nutritionfacts.org/video/why-do-we-age/	Why Do We Age?
+PLAIN-2632	http://nutritionfacts.org/video/is-meat-glue-safe/	Is Meat Glue Safe?
+PLAIN-2633	http://nutritionfacts.org/video/is-liquid-smoke-flavoring-carcinogenic/	Is Liquid Smoke Flavoring Carcinogenic?
+PLAIN-2637	http://nutritionfacts.org/video/who-says-eggs-arent-healthy-or-safe/	Who Says Eggs Aren't Healthy or Safe?
+PLAIN-2638	http://nutritionfacts.org/video/how-much-exercise-to-sustain-weight-loss/	How Much Exercise to Sustain Weight Loss?
+PLAIN-2639	http://nutritionfacts.org/video/who-determines-if-food-additives-are-safe/	Who Determines if Food Additives are Safe?
+PLAIN-2643	http://nutritionfacts.org/video/is-fish-oil-just-snake-oil/	Is Fish Oil Just Snake Oil?
+PLAIN-2644	http://nutritionfacts.org/video/should-we-take-a-multivitamin/	Should We Take a Multivitamin?
+PLAIN-2648	http://nutritionfacts.org/video/who-shouldnt-consume-curcumin-or-turmeric/	Who Shouldn t Consume Curcumin or Turmeric?
+PLAIN-2653	http://nutritionfacts.org/video/which-spices-fight-inflammation/	Which Spices Fight Inflammation?
+PLAIN-2660	http://nutritionfacts.org/video/how-long-to-detox-from-fish-before-pregnancy/	How Long to Detox From Fish Before Pregnancy?
+PLAIN-2670	http://nutritionfacts.org/video/is-caramel-color-carcinogenic/	Is Caramel Color Carcinogenic?
+PLAIN-2675	http://nutritionfacts.org/video/are-fatty-foods-addictive/	Are Fatty Foods Addictive?
+PLAIN-2676	http://nutritionfacts.org/video/are-sugary-foods-addictive/	Are Sugary Foods Addictive?
+PLAIN-2683	http://nutritionfacts.org/video/canned-beans-or-cooked-beans/	Canned Beans or Cooked Beans?
+PLAIN-2686	http://nutritionfacts.org/video/how-many-poppy-seeds-are-too-many/	How Many Poppy Seeds Are Too Many?
+PLAIN-2693	http://nutritionfacts.org/video/bold-indeed-beef-lowers-cholesterol/	BOLD Indeed: Beef Lowers Cholesterol?
+PLAIN-2696	http://nutritionfacts.org/video/alkaline-diets-animal-protein-and-calcium-loss/	Do alkaline diets, animal protein, and calcium loss have a connection?
+PLAIN-2710	http://nutritionfacts.org/video/artificial-food-colors-and-adhd/	Do artificial food colors contribute to ADHD?
+PLAIN-2723	http://nutritionfacts.org/video/is-carrageenan-safe/	Is Carrageenan Safe?
+PLAIN-2726	http://nutritionfacts.org/video/hot-sauce-in-the-nose-for-cluster-headaches/	Hot Sauce in the Nose for Cluster Headaches?
+PLAIN-2731	http://nutritionfacts.org/video/why-might-vegetarians-have-less-hpv/	Why Might Vegetarians Have Less HPV?
+PLAIN-2739	http://nutritionfacts.org/video/do-dental-x-rays-cause-brain-tumors/	Do Dental X-Rays Cause Brain Tumors?
+PLAIN-2743	http://nutritionfacts.org/video/can-cranberry-juice-treat-bladder-infections/	Can Cranberry Juice Treat Bladder Infections?
+PLAIN-2749	http://nutritionfacts.org/video/should-probiotics-be-taken-before-during-or-after-meals/	Should Probiotics Be Taken Before, During, or After Meals?
+PLAIN-2750	http://nutritionfacts.org/video/preventing-the-common-cold-with-probiotics/	Preventing the Common Cold with Probiotics?
+PLAIN-2757	http://nutritionfacts.org/video/which-fruit-fights-cancer-better/	Which Fruit Fights Cancer Better?
+PLAIN-2758	http://nutritionfacts.org/video/the-lie-that-heals-should-doctors-give-placebos/	The Lie That Heals: Should Doctors Give Placebos?
+PLAIN-2759	http://nutritionfacts.org/video/breast-cancer-and-alcohol-what-much-is-safe/	Breast Cancer and Alcohol: How Much is Safe?
+PLAIN-2761	http://nutritionfacts.org/video/does-a-drink-of-water-make-children-smarter/	Does a Drink Of Water Make Children Smarter?
+PLAIN-2768	http://nutritionfacts.org/video/can-cellulite-be-treated-with-diet/	Can Cellulite Be Treated With Diet?
+PLAIN-2780	http://nutritionfacts.org/video/do-fruit-nut-bars-cause-weight-gain/	Do Fruit & Nut Bars Cause Weight Gain?
+PLAIN-2782	http://nutritionfacts.org/video/dried-apples-dates-figs-or-prunes-for-cholesterol/	Dried Apples, Dates, Figs or Prunes for Cholesterol?
+PLAIN-2791	http://nutritionfacts.org/video/can-gargling-prevent-the-common-cold/	Can Gargling Prevent The Common Cold?
+PLAIN-2792	http://nutritionfacts.org/video/are-cats-or-dogs-more-protective-for-childrens-health/	Are Cats or Dogs More Protective For Children's Health?
+PLAIN-2794	http://nutritionfacts.org/video/is-vitamin-d3-better-than-d2/	Is Vitamin D3 Better Than D2?
+PLAIN-2795	http://nutritionfacts.org/video/does-coconut-oil-clog-arteries/	Does Coconut Oil Clog Arteries?
+PLAIN-2796	http://nutritionfacts.org/video/does-coconut-oil-cure-alzheimers/	Does Coconut Oil Cure Alzheimer's?
+PLAIN-2803	http://nutritionfacts.org/video/heterocyclic-amines-in-eggs-cheese-and-creatine/	Heterocyclic Amines in Eggs, Cheese, and Creatine?
+PLAIN-2810	http://nutritionfacts.org/video/apple-juice-may-be-worse-than-sugar-water/	Could apple juice be worse than sugar water?
+PLAIN-2813	http://nutritionfacts.org/video/tree-nuts-or-peanuts-for-breast-cancer-prevention/	Tree Nuts or Peanuts for Breast Cancer Prevention?
+PLAIN-2815	http://nutritionfacts.org/video/why-do-asian-women-have-less-breast-cancer/	Why Do Asian Women Have Less Breast Cancer?
+PLAIN-2847	http://nutritionfacts.org/video/changing-protein-recommendations/	Changing Protein Recommendations?
+PLAIN-2850	http://nutritionfacts.org/video/more-antibiotics-in-white-meat-or-dark-meat/	More Antibiotics In White Meat or Dark Meat?
+PLAIN-2856	http://nutritionfacts.org/video/how-fast-can-children-detoxify-from-pcbs/	How Fast Can Children Detoxify from PCBs?
+PLAIN-2874	http://nutritionfacts.org/video/how-much-soy-is-too-much/	How Much Soy Is Too Much?
+PLAIN-2879	http://nutritionfacts.org/video/how-plant-based-to-lower-igf-1/	How Plant-Based to Lower IGF-1?
+PLAIN-2885	http://nutritionfacts.org/video/is-it-the-diet-the-exercise-or-both/	Is It the Diet, the Exercise, or Both?
+PLAIN-2890	http://nutritionfacts.org/video/to-snack-or-not-to-snack/	To Snack or Not to Snack?
+PLAIN-2922	http://nutritionfacts.org/video/how-do-nuts-prevent-sudden-cardiac-death/	How Do Nuts Prevent Sudden Cardiac Death?
+PLAIN-2926	http://nutritionfacts.org/video/americans-are-living-longer-but-sicker-lives/	Are Americans Living Longer but Sicker Lives?
+PLAIN-2935	http://nutritionfacts.org/video/is-caffeinated-tea-dehydrating/	Is Caffeinated Tea Dehydrating?
+PLAIN-2944	http://nutritionfacts.org/video/is-hydroponic-basil-as-healthy/	Is Hydroponic Basil as Healthy?
+PLAIN-2948	http://nutritionfacts.org/video/arterial-acne/	What is arterial acne?
+PLAIN-2960	http://nutritionfacts.org/video/pharmacists-versus-health-food-store-employees-who-gives-better-advice/	Pharmacists Versus Health Food Store Employees: Who Gives Better Advice?
+PLAIN-2964	http://nutritionfacts.org/video/which-brand-of-tuna-has-the-most-mercury/	Which Brand of Tuna Has the Most Mercury?
+PLAIN-2968	http://nutritionfacts.org/video/amnesic-seafood-poisoning/	What is Amnesic Seafood Poisoning?
+PLAIN-3000	http://nutritionfacts.org/video/chicken-dioxins-viruses-or-antibiotics/	Chicken Dioxins, Viruses, or Antibiotics?
+PLAIN-3016	http://nutritionfacts.org/video/how-much-broccoli-is-too-much/	How Much Broccoli Is Too Much?
+PLAIN-3017	http://nutritionfacts.org/video/liver-toxicity-due-to-broccoli-juice/	Liver Toxicity Due to Broccoli Juice?
+PLAIN-3025	http://nutritionfacts.org/video/so-should-we-drink-beet-juice-or-not/	So Should We Drink Beet Juice or Not?
+PLAIN-3029	http://nutritionfacts.org/video/are-nitrates-pollutants-or-nutrients/	Are Nitrates Pollutants or Nutrients?
+PLAIN-3032	http://nutritionfacts.org/video/is-bacon-good-or-is-spinach-bad/	Is Bacon Good or Is Spinach Bad?
+PLAIN-3088	http://nutritionfacts.org/video/is-vitamin-d-the-new-vitamin-e/	Is Vitamin D the New Vitamin E?
+PLAIN-3092	http://nutritionfacts.org/video/is-pomegranate-juice-that-wonderful/	Is Pomegranate Juice That Wonderful?
+PLAIN-3093	http://nutritionfacts.org/video/alzheimers-and-apple-juice/	Is there a connection between Alzheimer's and apple juice?
+PLAIN-3124	http://nutritionfacts.org/video/is-potassium-sorbate-bad-for-you/	Is Potassium Sorbate Bad for You?
+PLAIN-3125	http://nutritionfacts.org/video/alkaline-water-a-scam/	Is alkaline water a scam?
+PLAIN-3130	http://nutritionfacts.org/video/are-avocados-bad-for-you/	Are Avocados Bad for You?
+PLAIN-3143	http://nutritionfacts.org/video/breast-cancer-prevention-which-mushroom-is-best/	Breast Cancer Prevention: Which Mushroom Is Best?
+PLAIN-3161	http://nutritionfacts.org/video/is-milk-and-mucus-a-myth/	Is Milk and Mucus a Myth?
+PLAIN-3165	http://nutritionfacts.org/video/american-vegans-placing-babies-at-risk/	Are American Vegans Placing Babies At Risk?
+PLAIN-3174	http://nutritionfacts.org/video/is-vinegar-good-for-you/	Is Vinegar Good For You?
+PLAIN-3175	http://nutritionfacts.org/video/is-petroleum-jelly-good-for-you/	Is Petroleum Jelly Good For You?
+PLAIN-3176	http://nutritionfacts.org/video/is-peanut-butter-good-for-you/	Is Peanut Butter Good for You?
+PLAIN-3177	http://nutritionfacts.org/video/is-licorice-good-for-you/	Is Licorice Good For You?
+PLAIN-3178	http://nutritionfacts.org/video/are-goji-berries-good-for-you/	Are Goji Berries Good for You?
+PLAIN-3179	http://nutritionfacts.org/video/is-kombucha-tea-goodfor-you/	Is Kombucha Tea Good For You?
+PLAIN-3180	http://nutritionfacts.org/video/is-kimchi-good-for-you/	Is Kimchi Good For You?
+PLAIN-3181	http://nutritionfacts.org/video/is-dragon-fruit-good-for-you/	Is Dragon Fruit Good For You?
+PLAIN-3182	http://nutritionfacts.org/video/are-dates-good-for-you/	Are Dates Good For You?
+PLAIN-3183	http://nutritionfacts.org/video/are-chili-peppers-good-for-you/	Are Chili Peppers Good For You?
+PLAIN-3186	http://nutritionfacts.org/video/is-protein-bad-to-the-bone/	Is Protein Bad to the Bone?
+PLAIN-3191	http://nutritionfacts.org/video/is-distilled-fish-oil-toxin-free/	Is Distilled Fish Oil Toxin-Free?
+PLAIN-3196	http://nutritionfacts.org/video/allergenic-fish-worms/	Are fish worms allergenic?
+PLAIN-3199	http://nutritionfacts.org/video/whats-in-a-burger/	What's in a Burger?
+PLAIN-3200	http://nutritionfacts.org/video/anabolic-steroids-in-meat/	Are there anabolic steroids in meat?
+PLAIN-3201	http://nutritionfacts.org/video/acne-cancer-connection/	Is there a connection between acne and cancer?
+PLAIN-3205	http://nutritionfacts.org/video/does-eating-obesity-cause-obesity/	Does Eating Obesity Cause Obesity?
+PLAIN-3208	http://nutritionfacts.org/video/can-folic-acid-be-harmful/	Can Folic Acid Be Harmful?
+PLAIN-3213	http://nutritionfacts.org/video/is-matcha-good-for-you/	Is Matcha Good for You?
+PLAIN-3233	http://nutritionfacts.org/video/can-cholesterol-be-too-low/	Can Cholesterol Be Too Low?
+PLAIN-3235	http://nutritionfacts.org/video/low-fat-or-whole-food/	Low-Fat or Whole Food?
+PLAIN-3240	http://nutritionfacts.org/video/is-homeopathy-just-placebo/	Is Homeopathy Just Placebo?
+PLAIN-3245	http://nutritionfacts.org/video/zinc-gel-for-colds/	Zinc Gel for Colds?
+PLAIN-3257	http://nutritionfacts.org/video/is-stevia-good-for-you/	Is Stevia Good For You?
+PLAIN-3265	http://nutritionfacts.org/video/update-on-chlorella/	Is blue-green algae good for you?
+PLAIN-3272	http://nutritionfacts.org/video/cancer-reversal-through-diet/	Cancer Reversal Through Diet?
+PLAIN-3282	http://nutritionfacts.org/video/arsenic-in-chicken/	Does chicken contain arsenic?
+PLAIN-3283	http://nutritionfacts.org/video/arsenic-in-rice/	Does rice contain arsenic?
+PLAIN-3284	http://nutritionfacts.org/video/toxins-in-sweet-potatoes/	Toxins in Sweet Potatoes?
+PLAIN-3285	http://nutritionfacts.org/video/toxins-in-cooked-potatoes/	Toxins in Cooked Potatoes?
+PLAIN-3286	http://nutritionfacts.org/video/toxins-in-raw-mushrooms/	Toxins in Raw Mushrooms?
+PLAIN-3288	http://nutritionfacts.org/video/is-gluten-bad-for-you/	Is Gluten Bad For You?
+PLAIN-3292	http://nutritionfacts.org/video/are-multivitamins-good-for-you/	Are Multivitamins Good For You?
+PLAIN-3293	http://nutritionfacts.org/video/are-iron-pills-good-for-you/	Are Iron Pills Good For You?
+PLAIN-3294	http://nutritionfacts.org/video/are-vitamin-c-pills-good-for-you/	Are Vitamin C Pills Good For You?
+PLAIN-3295	http://nutritionfacts.org/video/is-cod-liver-oil-good-for-you/	Is Cod Liver Oil Good For You?
+PLAIN-3315	http://nutritionfacts.org/video/carcinogens-in-roasted-coffee/	Carcinogens in Roasted Coffee?
+PLAIN-3317	http://nutritionfacts.org/video/carcinogens-in-roasted-chicken/	Carcinogens in Roasted Chicken?
+PLAIN-3320	http://nutritionfacts.org/video/forego-fat-free-dressings/	Forego Fat-Free Dressings?
+PLAIN-3321	http://nutritionfacts.org/video/1-anticancer-vegetable/		Which is the #1 Anticancer Vegetable?
+PLAIN-3324	http://nutritionfacts.org/video/low-meat-or-no-meat/	Low Meat or No Meat?
+PLAIN-3329	http://nutritionfacts.org/video/which-plastics-are-harmful/	Which Plastics are Harmful?
+PLAIN-3331	http://nutritionfacts.org/video/salt-ok-if-blood-pressure-is-ok/	Salt OK if Blood Pressure is OK?
+PLAIN-3334	http://nutritionfacts.org/video/is-caloric-restriction-good-for-you/	Is Caloric Restriction Good For You?
+PLAIN-3337	http://nutritionfacts.org/video/does-tofu-cause-dementia/	Does Tofu Cause Dementia?
+PLAIN-3342	http://nutritionfacts.org/video/is-coconut-milk-good-for-you/	Is Coconut Milk Good For You?
+PLAIN-3343	http://nutritionfacts.org/video/is-coconut-oil-good-for-you/	Is Coconut Oil Good For You?
+PLAIN-3344	http://nutritionfacts.org/video/are-betel-nuts-good-for-you/	Are Betel Nuts Good For You?
+PLAIN-3347	http://nutritionfacts.org/video/apples-breast-cancer/	Is there a link between apples and breast cancer?
+PLAIN-3348	http://nutritionfacts.org/video/are-star-fruit-good-for-you/	Are Star Fruit Good For You?
+PLAIN-3349	http://nutritionfacts.org/video/is-mangosteen-juice-good-for-you/	Is Mangosteen Juice Good For You?
+PLAIN-3350	http://nutritionfacts.org/video/latest-on-blue-green-algae/	Is chlorella good for you?
+PLAIN-3353	http://nutritionfacts.org/video/is-white-bread-good-for-you/	Is White Bread Good for You?
+PLAIN-3359	http://nutritionfacts.org/video/do-cell-phones-cause-cancer/	Do Cell Phones Cause Cancer?
+PLAIN-3360	http://nutritionfacts.org/video/is-carob-good-for-you/	Is Carob Good For You?
+PLAIN-3363	http://nutritionfacts.org/video/is-hibiscus-tea-good-for-you/	Is Hibiscus Tea Good For You?
+PLAIN-3364	http://nutritionfacts.org/video/is-osmanthus-tea-good-for-you/	Is Osmanthus Tea Good For You?
+PLAIN-3365	http://nutritionfacts.org/video/is-tulsi-tea-good-for-you/	Is Tulsi Tea Good For You?
+PLAIN-3373	http://nutritionfacts.org/video/mercury-in-corn-syrup/	Mercury in Corn Syrup?
+PLAIN-3376	http://nutritionfacts.org/video/is-sodium-benzoate-harmful/	Is Sodium Benzoate Harmful?
+PLAIN-3377	http://nutritionfacts.org/video/is-gum-arabic-harmful/	Is Gum Arabic Harmful?
+PLAIN-3378	http://nutritionfacts.org/video/is-citric-acid-harmful/	Is Citric Acid Harmful?
+PLAIN-3379	http://nutritionfacts.org/video/is-artificial-butter-flavor-harmful/	Is Artificial Butter Flavor Harmful?
+PLAIN-3381	http://nutritionfacts.org/video/are-artificial-colors-harmful/	Are Artificial Colors Harmful?
+PLAIN-3413	http://nutritionfacts.org/video/what-is-really-in-hot-dogs-2/	What Is Really in Hot Dogs?
+PLAIN-3419	http://nutritionfacts.org/video/is-coffee-bad-for-you/	Is Coffee Bad For You?
+PLAIN-3420	http://nutritionfacts.org/video/is-one-egg-a-day-too-much/	Is One Egg a Day Too Much?
+PLAIN-3424	http://nutritionfacts.org/video/is-black-pepper-bad-for-you/	Is Black Pepper Bad For You?
+PLAIN-3425	http://nutritionfacts.org/video/is-msg-bad-for-you/	Is MSG Bad For You?
+PLAIN-3444	http://nutritionfacts.org/video/is-noni-juice-good-for-you/	Is Noni Juice Good For You?
+PLAIN-3448	http://nutritionfacts.org/video/can-pesticides-be-rinsed-off/	Can Pesticides Be Rinsed Off?
+PLAIN-3459	http://nutritionfacts.org/video/how-may-plants-protect-against-diabetes/	How May Plants Protect Against Diabetes?
+PLAIN-3460	http://nutritionfacts.org/video/why-is-meat-a-risk-factor-for-diabetes/	Why is Meat a Risk Factor for Diabetes?
+PLAIN-3464	http://nutritionfacts.org/video/does-chocolate-cause-weight-gain/	Does Chocolate Cause Weight Gain?
+PLAIN-3473	http://nutritionfacts.org/video/does-rye-bread-protect-against-cancer/	Does Rye Bread Protect Against Cancer?
